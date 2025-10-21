@@ -1,12 +1,22 @@
-# Lab 3.3, Developing with Bootstrap
+# SBA 3, Design and Development
 
 ## Description
-In this lab [ ]
+In this SBA a webpage is developed using a design provided by Frontend Mentor. . Figma files were not available for reference, as Frontend Mentor required a Pro subscription.
 
 ## Running the program
-To use either webpage, open index.html in a web browser. [ ]
+To use the webpage, open index.html in a web browser. [ ]
 
 ## Reflection Questions
+
+
+
+ Reflection
+
+    Write a brief reflection (100-200 words) discussing:
+        Challenges you encountered during the project.
+        Your approach to solving these challenges.
+        Improvements you would make if given more time.
+
 > How?
 
 [ ]
