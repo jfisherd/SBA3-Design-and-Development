@@ -9,28 +9,26 @@ Link to Frontend Mentor challenge: https://www.frontendmentor.io/challenges/fylo
 ## Running the program
 To use the webpage, open index.html in a web browser. [ ]
 
-## Reflection Questions
-
-
-
- Reflection
+## Reflection
+<!-- Reflection
 
     Write a brief reflection (100-200 words) discussing:
         Challenges you encountered during the project.
         Your approach to solving these challenges.
         Improvements you would make if given more time.
+-->
 
-> How?
-
-[ ]
-<br>
-
-> What?
+> Challenges you encountered during the project.
 
 [ ]
 <br>
 
-> How?
+> Your approach to solving these challenges.
+
+[ ]
+<br>
+
+> Improvements you would make if given more time.
 
 [ ]
 <br>
