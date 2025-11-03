@@ -3,5 +3,31 @@ body {
     color: white;
 }
 
-.attribution { font-size: 11px; text-align: center; }
+.logo {
+    border: 1px solid red;
+}
+
+ .nav {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid red;
+}
+
+.navFile, .navFolder, .navCloud {
+    border: 1px solid white;
+}
+
+.leftSide, .rightSide {
+    border: 1px solid green;
+}
+
+.storageUsed, .storageRemaining {
+    border: 1px solid red;
+}
+
+.graphContainer, .storageInfoContainer {
+    border: 1px solid red;
+}
+
+.attribution { font-size: 0.6875rem; text-align: center; } /* 11px */
 .attribution a { color: hsl(228, 45%, 44%); }
