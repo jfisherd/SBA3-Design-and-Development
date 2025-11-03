@@ -13,11 +13,12 @@ body {
     border: 1px solid red;
 }
 
-.navFile, .navFolder, .navCloud {
+.navDocument, .navFolder, .navUpload {
     border: 1px solid white;
 }
 
 .leftSide, .rightSide {
+    background-color: hsl(228, 56%, 26%);
     border: 1px solid green;
 }
 
